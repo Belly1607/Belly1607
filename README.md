@@ -40,3 +40,13 @@ I'm a computing student building my skills in programming, software development,
 
 ## 🎯 Current Goal
 To strengthen my coding skills, improve my problem-solving ability, think beyond obvious solutions, and become better at breaking complex problems into practical and efficient solutions.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BELLY1607&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BELLY1607&layout=compact&theme=tokyonight" />
+</p>
