@@ -50,3 +50,13 @@ To strengthen my coding skills, improve my problem-solving ability, think beyond
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BELLY1607&layout=compact&theme=tokyonight" />
 </p>
+
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BELLY1607/BELLY1607/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BELLY1607/BELLY1607/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/BELLY1607/BELLY1607/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
