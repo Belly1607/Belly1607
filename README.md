@@ -1,6 +1,10 @@
 # Belly1607
 # Hi I'm Esabel
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Learning+Java+%7C+C%2B%2B+%7C+LLMs;Interested+in+AI+%7C+ML+%7C+Embedded+Systems;Improving+My+Problem-Solving+Skills" />
+</p>
+
 ### 💻 Aspiring Software Developer | Problem Solver | Tech Enthusiast
 
 I'm a computing student building my skills in programming, software development, databases, networking, and modern development tools.
