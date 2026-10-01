@@ -51,7 +51,7 @@ To strengthen my coding skills, improve my problem-solving ability, think beyond
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BELLY1607&layout=compact&theme=tokyonight" />
 </p>
 
-## Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
   <picture>
